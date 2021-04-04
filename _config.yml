@@ -1,6 +1,6 @@
 # Meta
-description: Private theme for artifact.me
-keywords: hexo,theme,artifact,otakism
+description: hhaze.github.io
+keywords: hhaze, jhgu, 블로구
 
 # Author
 author_avatar: /img/avatar.png
@@ -8,7 +8,7 @@ author_avatar: /img/avatar.png
 # Search
 search: 
   enable: false
-  service: google # google/algolia/azure
+  service: hexo # google/algolia/azure
   # google 
   google_api_key: 
   google_engine_id: 
@@ -22,15 +22,15 @@ search:
   azure_query_key: 
 
 # Miscellaneous
-google_analytics: 
-favicon: /favicon.png
+google_analytics: UA-131535785-1
+# favicon: /favicon.png
 
 # Less
 less:
   compress: true
 
 # Comment
-disqus_shortname:
+disqus_shortname: hhaze
 valine:
   enable: false
   appid:
@@ -47,10 +47,10 @@ valine:
 social:
 - name: feed
 	url: /atom.xml
-- name: email
-  url: 
+- name: mail
+  url: mailto:jhgu.dev@gmail.com
 - name: github
-  url: https://github.com/artchen
+  url: https://github.com/hhaze
 - name: twitter
   url: 
 - name: google
